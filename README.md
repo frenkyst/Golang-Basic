@@ -17,4 +17,5 @@ Belajar Go-Lang - 4 Tipe Data Boolean
 Belajar Go-Lang - 5 Tipe Data String
 ![image](https://user-images.githubusercontent.com/40049149/168462992-198a3de1-998f-4784-8d9a-ae14f1866a74.png)
 
-
+Belajar Go-Lang - 6 Variable
+![image](https://user-images.githubusercontent.com/40049149/168463515-c52cd50c-31c4-498c-921e-b02809743616.png)
