@@ -19,3 +19,6 @@ Belajar Go-Lang - 5 Tipe Data String
 
 Belajar Go-Lang - 6 Variable
 ![image](https://user-images.githubusercontent.com/40049149/168463515-c52cd50c-31c4-498c-921e-b02809743616.png)
+
+Belajar Go-Lang - 7 Constant
+![image](https://user-images.githubusercontent.com/40049149/168463727-e9374936-293a-4027-8881-5c3fb8b2b860.png)
