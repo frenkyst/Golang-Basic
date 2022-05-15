@@ -25,3 +25,6 @@ Belajar Go-Lang - 7 Constant
 
 Belajar Go-Lang - 9 Type Declarations
 ![image](https://user-images.githubusercontent.com/40049149/168469369-6a7a0beb-213c-4163-81db-11dc18500190.png)
+
+Belajar Go-Lang - 10 Operasi Matematika
+![image](https://user-images.githubusercontent.com/40049149/168469968-4b23b215-c0c1-42d8-be65-f2114d2db97a.png)
