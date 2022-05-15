@@ -22,3 +22,6 @@ Belajar Go-Lang - 6 Variable
 
 Belajar Go-Lang - 7 Constant
 ![image](https://user-images.githubusercontent.com/40049149/168463727-e9374936-293a-4027-8881-5c3fb8b2b860.png)
+
+Belajar Go-Lang - 9 Type Declarations
+![image](https://user-images.githubusercontent.com/40049149/168469369-6a7a0beb-213c-4163-81db-11dc18500190.png)
