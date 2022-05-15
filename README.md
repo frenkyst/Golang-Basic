@@ -35,4 +35,9 @@ Belajar Go-Lang - 11 Operasi Perbandingan
 Belajar Go-Lang - 12 Operasi Boolean
 ![image](https://user-images.githubusercontent.com/40049149/168470719-35435844-ffb2-44cb-8e7b-165475d9d6a8.png)
 
+Belajar Go-Lang - 13 Tipe Data Array
+![image](https://user-images.githubusercontent.com/40049149/168471281-fc668861-29e4-4193-ba34-4113dcb2e508.png)
+
+
+
 
