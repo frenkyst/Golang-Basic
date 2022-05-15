@@ -32,6 +32,7 @@ Belajar Go-Lang - 10 Operasi Matematika
 Belajar Go-Lang - 11 Operasi Perbandingan
 ![image](https://user-images.githubusercontent.com/40049149/168470368-78bd45a6-e2f9-47ec-b4f3-1d7f1bd09574.png)
 
-
+Belajar Go-Lang - 12 Operasi Boolean
+![image](https://user-images.githubusercontent.com/40049149/168470719-35435844-ffb2-44cb-8e7b-165475d9d6a8.png)
 
 
