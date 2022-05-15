@@ -28,3 +28,10 @@ Belajar Go-Lang - 9 Type Declarations
 
 Belajar Go-Lang - 10 Operasi Matematika
 ![image](https://user-images.githubusercontent.com/40049149/168469968-4b23b215-c0c1-42d8-be65-f2114d2db97a.png)
+
+Belajar Go-Lang - 11 Operasi Perbandingan
+![image](https://user-images.githubusercontent.com/40049149/168470368-78bd45a6-e2f9-47ec-b4f3-1d7f1bd09574.png)
+
+
+
+
