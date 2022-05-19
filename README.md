@@ -43,3 +43,9 @@ Belajar Go-Lang - 14 Tipe Data Slice
 
 Belajar Go-Lang - 15 Tipe Data Map
 ![image](https://user-images.githubusercontent.com/40049149/169230669-02a5e144-8471-4e95-a4db-7e8e2707a269.png)
+
+Belajar Go-Lang - 16 If Expression
+![image](https://user-images.githubusercontent.com/40049149/169232462-d7b5a5fe-e379-4e26-b756-091f8b657dc8.png)
+
+
+
