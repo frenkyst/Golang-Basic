@@ -41,4 +41,5 @@ Belajar Go-Lang - 13 Tipe Data Array
 Belajar Go-Lang - 14 Tipe Data Slice
 ![image](https://user-images.githubusercontent.com/40049149/169227580-895eed46-c0ff-4ce8-a212-058e5e6e0008.png)
 
-
+Belajar Go-Lang - 15 Tipe Data Map
+![image](https://user-images.githubusercontent.com/40049149/169230669-02a5e144-8471-4e95-a4db-7e8e2707a269.png)
