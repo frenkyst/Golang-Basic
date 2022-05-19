@@ -38,6 +38,7 @@ Belajar Go-Lang - 12 Operasi Boolean
 Belajar Go-Lang - 13 Tipe Data Array
 ![image](https://user-images.githubusercontent.com/40049149/168471281-fc668861-29e4-4193-ba34-4113dcb2e508.png)
 
-
+Belajar Go-Lang - 14 Tipe Data Slice
+![image](https://user-images.githubusercontent.com/40049149/169227580-895eed46-c0ff-4ce8-a212-058e5e6e0008.png)
 
 
