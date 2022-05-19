@@ -47,5 +47,6 @@ Belajar Go-Lang - 15 Tipe Data Map
 Belajar Go-Lang - 16 If Expression
 ![image](https://user-images.githubusercontent.com/40049149/169232462-d7b5a5fe-e379-4e26-b756-091f8b657dc8.png)
 
-
+Belajar Go-Lang - 17 Switch Expression
+![image](https://user-images.githubusercontent.com/40049149/169236182-657672ac-15d3-4e04-ad41-5a1d426ac846.png)
 
